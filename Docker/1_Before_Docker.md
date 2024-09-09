@@ -1,7 +1,4 @@
-# sample
-## standard Markdown
-**bold** *Italics*
-==highlight==
+
 
 
 # **Before Docker**: 
@@ -21,7 +18,7 @@ Updating or deploying a new version of the application required either modifying
 4. # Isolation Issues: 
 Running multiple applications on the same server without isolation could lead to conflicts between applications, especially if they had different dependencies or configurations. traditionally, each physical or virtual server was often dedicated to running a single application. 
 
-## A code is work on our systems an doesn't work on our friends . There may be any installation problems or any dependencies problem solved by docker
+**Note:** A code is work on our systems and doesn't work on our friends . There may be any installation problems or any dependencies problem whcih will be solved by docker
 
 
 
