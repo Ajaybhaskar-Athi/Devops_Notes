@@ -7,9 +7,9 @@ system and do not use the host's operating system. They have some space
 **Containerization** is the process of packaging an application and its dependencies into a container. This approach ensures that the application runs consistently across different computing
 
 
-# Containers are lightweight, portable units that package an application along with its dependencies, ensuring it runs consistently across different environments.
+**Containers** are lightweight, portable units that package an application along with its dependencies, ensuring it runs consistently across different environments.
 
-# Virtual Machines (VMs) are isolated environments that run an entire operating system along with the application and its dependencies.
+**Virtual Machines (VMs)** are isolated environments that run an entire operating system along with the application and its dependencies.
 
 ## Comparison:
 
