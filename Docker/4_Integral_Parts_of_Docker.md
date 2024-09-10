@@ -1,17 +1,17 @@
 # orchestration, Docker Engine, and Docker Runtime are integral parts of Docker, each playing a distinct role in container management
 
-1. **Docker Engine**
+1. # **Docker Engine**
    is the core component of Docker, a platform used for developing, shipping, and running applications in containers. Docker Engine is a client-server application that creates, manages, and runs Docker containers. It consists of three key components:
 
-# Docker Daemon (dockerd):
+**Docker Daemon (dockerd):**
 
 The Docker Daemon runs on the host machine and listens for Docker API requests. It manages Docker objects such as images, containers, networks, and volumes.
 
-# Docker Client (docker):
+**Docker Client (docker):**
 
 The Docker Client is a command-line interface (CLI) tool that users interact with to issue commands to the Docker Daemon. When you use commands like docker run or docker build, the client sends these requests to the daemon.
 
-# REST API:
+ **REST API:**
 
 Docker Engine provides a REST API that applications and services can use to communicate with the Docker Daemon, allowing automation and integration with other tools.
 
@@ -25,7 +25,7 @@ Docker Engine provides a REST API that applications and services can use to comm
 **Community Edition (CE)**: Free, open-source version for developers and small teams.
 **Enterprise Edition (EE)**: Paid version with additional features and support for large organizations.
 
-2. **Docker RunTime**
+2. # Docker RunTime
 
 - The Docker Runtime is the underlying software responsible for running containers.
 - Docker uses **containerd** as its default runtime, which is an industry-standard container runtime interface (CRI) for managing the complete lifecycle of a container (create, start, stop, delete).
@@ -39,7 +39,7 @@ Docker Engine provides a REST API that applications and services can use to comm
 - runc is the default runtime **executor** within the containerd runtime.
 - So, containerd handles the management of containers, while runc is the component that actually runs them at the OS level.
 
-3. **Orchestration**
+3. # **Orchestration**
    -Orchestration involves the automated management of containerized applications, typically in large, distributed environments.
 
 - Docker supports orchestration through Docker Swarm (Docker's native clustering and orchestration tool).
