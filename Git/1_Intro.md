@@ -5,18 +5,70 @@
 
 Here are some basic Git commands:
 
-- `git init`: Initialize a new Git repository.
-- `git clone [url]`: Clone a repository from a URL.
-- `git status`: Show the status of changes in your working directory.
-- `git add [file]`: Add a file to the staging area.
-- `git commit -m "message"`: Commit changes with a message.
-- `git pull`: Fetch and integrate changes from a remote repository.
-- `git push`: Push changes to a remote repository.
-- `git branch`: List branches or create a new branch.
-- `git checkout [branch]`: Switch to a different branch.
-- `git merge [branch]`: Merge changes from one branch into another.
-- `git remote -v`: Lists all remote repositories and their URLs.
-- `git remote add <remote-name> <remote-url>`: Adds a new remote repository with the specified name and URL to your local repository.
+Here’s the list of basic Git commands with their syntax included:
+
+1. **`git init`**: Initialize a new Git repository.
+   ```bash
+   git init
+   ```
+
+2. **`git clone [url]`**: Clone a repository from a URL.
+   ```bash
+   git clone [url]
+   ```
+
+3. **`git status`**: Show the status of changes in your working directory.
+   ```bash
+   git status
+   ```
+
+4. **`git add [file]`**: Add a file to the staging area.
+   ```bash
+   git add [file]
+   ```
+
+5. **`git commit -m "message"`**: Commit changes with a message.
+   ```bash
+   git commit -m "message"
+   ```
+
+6. **`git pull [remote] [branch]`**: Fetch and integrate changes from a remote repository.
+   ```bash
+   git pull [remote] [branch]
+   ```
+
+7. **`git push [-u] [remote] [branch]`**: Push changes to a remote repository.
+   ```bash
+   git push [-u] [remote] [branch]
+   ```
+
+8. **`git branch`**: List branches or create a new branch.
+   ```bash
+   git branch        # List branches
+   git branch [name] # Create a new branch
+   ```
+
+9. **`git checkout [branch]`**: Switch to a different branch.
+   ```bash
+   git checkout [branch]
+   ```
+
+10. **`git merge [branch]`**: Merge changes from one branch into another.
+    ```bash
+    git merge [branch]
+    ```
+
+11. **`git remote -v`**: List all remote repositories and their URLs.
+    ```bash
+    git remote -v
+    ```
+
+12. **`git remote add <remote-name> <remote-url>`**: Add a new remote repository with the specified name and URL to your local repository.
+    ```bash
+    git remote add <remote-name> <remote-url>
+    ```
+
+This should give you a complete overview of the basic Git commands along with their syntax!
 
 
 
