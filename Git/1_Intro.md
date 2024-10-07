@@ -42,6 +42,12 @@ Here’s the list of basic Git commands with their syntax included:
    git pull [remote] [branch]
    ```
 
+   OR 
+   git fetch origin    //Fetch the remote changes:
+   git merge origin/master //Merge the changes into your local branch:
+   # Alternatively, you can use git pull, which is a combination of fetch and merge:
+
+
 7. **`git push [-u] [remote] [branch]`**: Push changes to a remote repository.
 
    ```bash
