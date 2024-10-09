@@ -24,8 +24,11 @@ Additional branch-related commands:
 - `git branch`: List all branches.
 - `git branch [branch-name]`: Create a new branch without switching to it.
 - `git checkout [branch-name]`: Switch to an existing branch.
-- `git merge [branch-name]`: Merge changes from the specified branch into the current branch.
+- `git merge [branch-name]`: Merge changes from the specified branch into the current branch locally.
+- ` after merging locally push into remote then only its visible in remote`
 - `git branch -d [branch-name]`: Delete a local branch (only if it’s fully merged).
+- `git push origin --delete [branch name]` : delete remote branch 
+
 
 
 **Example: Developing a New Feature**
