@@ -86,7 +86,7 @@ Service-Oriented Architecture (SOA) is an architectural style that allows softwa
 
 ### **Components of SOA**
 1. **Service Provider**:
-   - The entity that creates and manages the services. It hosts the service and defines its operations.
+   - The entity that creates and manage the services. It hosts the service and defines its operations.
    - A service provider is responsible for creating and hosting the web service. This entity exposes specific functionalities (services) over the network.
 
    EX:  Web services act as the implementation of services in SOA. They provide the actual business logic or functionality that can be accessed by service consumers through standardized protocols (like HTTP, SOAP, or REST).

@@ -1,18 +1,17 @@
 Here’s a simple breakdown of each computing trend with easy examples:
-
 ---
-
 ### 1. **Distributed Computing**  
 - **What it is:**  
   Computing is spread across multiple computers that work together to solve a problem.	
-  Often involves closely connected devices (e.g., within a data center or on a local network).
+  Often involves closely connected devices (e.g., within a data centre or on a local network).
   he computers can be physically close together or spread out geographically. The goal is to make the network work as if it were a single computer.
 
-  Example Distributed Systems
+
+ Example Distributed Systems
 Internet
 ATM (bank) machines
 Intranets / Workgroups
-Computing landscape will soon consist of ubiquitous netuork-connected devices
+Computing landscape will soon consist of ubiquitous network-connected devices
 
 Common properties of Distributed Computing
 

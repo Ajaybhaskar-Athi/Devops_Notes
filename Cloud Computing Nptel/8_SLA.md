@@ -48,7 +48,7 @@ This simple comparison can help clarify the differences between these two types 
 - Traditional Web Service : SLA negotiation, provisioning. service delivery, monitoring are not automated.
 - Cloud computing : SLA automation is required for highly dynamic and scalable service consumption
 **Resource Allocation** :
-- Traditional Web Service : UDDt (Universal Description Discovery ond Integration) for advertising and discovering between web services
+- Traditional Web Service : UDDt (Universal Description Discovery and Integration) for advertising and discovering between web services
 - Cloud computing : resources are allocated and distributed globally without any central  directory
 
 

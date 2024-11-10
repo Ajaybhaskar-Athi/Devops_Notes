@@ -1,6 +1,10 @@
 ### Geospatial Cloud
 
-A **Geospatial Cloud** is a cloud computing service specialized in handling, storing, analysing, and `managing geospatial data—data that includes geographical components like maps, satellite imagery, GPS coordinates, and spatial datasets.` This cloud-based platform enables organizations to work with location-based data in scalable, real-time, and collaborative ways. Common examples of geospatial cloud platforms include Google Earth Engine, Esri’s ArcGIS Online, and AWS for geospatial data processing.
+A **Geospatial Cloud** is a cloud computing service specialized in handling, storing,
+ analysing, and `managing geospatial data—data that includes geographical components like maps, 
+ satellite imagery, GPS coordinates, and spatial datasets.` This cloud-based platform enables organizations to
+  work with location-based data in scalable, real-time, and and collaborative ways. Common examples of geospatial 
+  cloud platforms include Google Earth Engine, Esri s ArcGIS Online, and AWS for geospatial data processing.
 
 1:` In Geospatial Cloud, it is needed to integrate data from heterogeneous back-end data service.`
 

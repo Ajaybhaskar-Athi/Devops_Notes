@@ -10,8 +10,8 @@ In cloud computing and networking, **private IP addresses** and **floating IP ad
   - **192.168.0.0 to 192.168.255.255**
 
 - **Usage**:
-  - Used for devices within a local area network (LAN) or virtual private cloud (VPC).
-  - Provides a way for devices to communicate with each other without exposing them to the internet.
+  - Used for devices within a local area network (LAN) or virtual private cloud (VPC). 
+  - Provides a way for devices to communicate with each other without exposing them to the internet
   - Typically assigned by network administrators or dynamically assigned using DHCP (Dynamic Host Configuration Protocol).
 
 - **Example**: In a company’s internal network, devices like printers, computers, and servers may use private IP addresses (e.g., `192.168.1.10`, `10.0.0.5`) to communicate with each other without needing a public IP address.

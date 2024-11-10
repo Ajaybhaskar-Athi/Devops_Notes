@@ -1,7 +1,7 @@
 OpenStack is an open-source cloud computing platform that enables users to build and manage both public and private cloud environments. It provides infrastructure-as-a-service (IaaS), meaning it allows users to create and manage virtualized resources such as compute, storage, and networking through a web interface, command-line tools, or REST APIs.
 
 
-OpenStack is modular, so each major functionality (like compute, networking, storage) is handled by a separate "project." Each project has its own codebase, documentation, and community that focuses on that area.
+OpenStack is modular, so each major functionality (like compute, networking, storage) is handled by a separate "project." Each project has its own codebase, documentation, and community that focuses on that area
 Ex: `The Compute Service functionality in OpenStack is fulfilled by the Nova project.`
 
 ### OpenStack Capabilities

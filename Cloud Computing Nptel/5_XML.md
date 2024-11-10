@@ -177,7 +177,7 @@ Certainly! Here’s the information formatted for better readability:
 **Functionality**:
 - The XML parser reads XML data.
 - Checks for syntactic (and possibly DTD/Schema) constraints.
-- Makes data available to an application.
+- Makes data available to an applicatin.
 
 ### Generic Parser APIs
 

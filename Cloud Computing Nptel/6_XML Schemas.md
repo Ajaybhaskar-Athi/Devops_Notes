@@ -13,7 +13,7 @@
 - uses pure XML (no special DTD grammar) to do this.
 - Schemas are more powerful than DTDs - can specify things like integer types, date strings. real numbers in a given range, etc.
 - They are often used for type validation. or for relating database schemas to XML models
--  They don't, however, let you declare entities those can only be done in DTDs.
+-  They don't, however, let you declare entities those can only be done in DTDs
 
 ### **Conclusion**
 

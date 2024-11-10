@@ -4,7 +4,7 @@
 # Dynamic Runtime Offloading:
  - refers to the process of transferring certain computational tasks or workloads from a mobile device (or edge device) to a cloud server or more powerful computing resources during the execution of an application. This technique is particularly useful in mobile and cloud computing environments, where devices often have limited processing power, battery life, and storage capacity.
 
- Dynamic runtime offloading involves several key issues:
+ Dynamic runtime offloading involves several key issuess
 
 1. **Dynamic Application Profiling and Solver on SMD**: Continuously analysing an application’s behaviour while it runs on a device to identify resource usage.
 

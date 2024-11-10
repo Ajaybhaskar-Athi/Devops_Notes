@@ -16,7 +16,7 @@ Previously provided middleware services for building and integrating application
 
 ### Create an Azure App Service plan
 
- - An App Service plan specifies the location, size, and features of the web server farm that hosts your app. You can save money when hosting multiple apps by configuring the web apps to share a single App Service plan.
+ - An App Service plan specifies the location, size,and features of the web server farm that hosts your app. You can save money when hosting multiple apps by configuring the web apps to share a single App Service plan.
 `App Service plans define:`
 
  Region (for example: North Europe, East US, or Southeast Asia)

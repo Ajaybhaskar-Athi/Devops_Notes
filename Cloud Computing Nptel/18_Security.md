@@ -7,7 +7,7 @@ Four types of attack:
 3. Modification
 4. Fabrication
 
-In the context of cybersecurity, the four types of attacks you've listed represent different methods through which attackers can compromise the integrity, confidentiality, and availability of data and systems. Here's a brief overview of each type:
+In the context of cybersecurity, the four types of attacks you've listed represent different methods through which attackers can compromise the integrity, confidentiality, and availability of data and systems. Here's a brief overview of each type
 
 ### 1. Interruption ( Attack on availability)
 

@@ -10,7 +10,7 @@
 #### 1. **Map Phase**
    - **Purpose:** The Map function is applied to each input data element, performing operations such as filtering or transforming data.
    - **How it Works:** The input data is divided into chunks, and each chunk is processed by separate *mappers*. Each mapper outputs a key-value pair for each piece of data it processes.
-   - **Example:** For counting words in a large dataset, the *Map* function might emit each word as a key and `1` as its associated value (e.g., `("apple", 1)`).
+   - **Example:** For counting words in a large dataset, the *Map* function might emit each word as a key and `1` as its associated value (e.g., `("apple", 1)`) .
 
 #### 2. **Shuffle and Sort Phase**
    - **Purpose:** To aggregate and organize the output of the Map phase so that all values associated with the same key are grouped together.

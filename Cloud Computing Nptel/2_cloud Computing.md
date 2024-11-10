@@ -52,7 +52,7 @@ saas->paas->Iaas
 
 
 
-#             virtualization in General
+#             virtualization in Generall
 
 • Advantages of virtual machines:
 — Run operating systems where the physical hardware is unavailable,

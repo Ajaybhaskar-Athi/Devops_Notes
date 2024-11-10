@@ -7,7 +7,7 @@
    - Data centres can be either privately hosted by organizations (private cloud setup) or publicly available by paying rent (public cloud). Each configuration presents its own set of challenges, such as security, cost, and scalability.
 
 3. **Data Upload Requirements**:
-   - All necessary information must be uploaded to the cloud for processing and knowledge extraction, which can raise concerns about data transfer speeds, bandwidth usage, and potential data loss during migration.
+   - All necessary information must be uploaded to the cloud for processing and knowledge extraction, which can raise concerns about data transfer speeds, bandwidth usage, and potential data loss during migrationn.
 
 
 ---

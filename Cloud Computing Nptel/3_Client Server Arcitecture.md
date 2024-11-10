@@ -2,7 +2,7 @@
 
 The **client-server model** is a distributed computing architecture that separates tasks between service providers (servers) and service requesters (clients). It is a foundational concept in network computing that allows multiple clients to access shared resources hosted on a server.
 
-- It may or may not be Load Balanced While Cloud Computing is Load balanced
+- It may or may not Load Balanced While Cloud Computing is Load balanced
 - No concept of Virtualisation in Client server Model While Cloud Computing use it as a core concept
 #### **Key Components**
 

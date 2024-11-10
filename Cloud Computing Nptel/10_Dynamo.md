@@ -1,6 +1,6 @@
 ### **Amazon Dynamo: Overview and Architecture**
 
-**Dynamo** is a distributed storage system developed by Amazon, designed to handle a large volume of concurrent, small-sized updates. Dynamo differs from Google’s **Bigtable** as it emphasizes support for high throughput of individual reads and writes rather than large-scale bulk operations. It’s highly suitable for web-based e-commerce applications, where fast response times and high availability are critical.
+**Dynamo** is a distributed storage system developed by Amazon , designed to handle a large volume of concurrent, small-sized updates. Dynamo differs from Google’s **Bigtable** as it emphasizes support for high throughput of individual reads and writes rather than large-scale bulk operations. It’s highly suitable for web-based e-commerce applications, where fast response times and high availability are critical.
 
 ---
 

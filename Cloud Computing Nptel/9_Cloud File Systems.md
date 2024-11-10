@@ -1,6 +1,6 @@
-Here’s a clear explanation of **Google File System (GFS)** and **Hadoop Distributed File System (HDFS)**, including their operations and architecture:
+Here’s a clear explanation of **Google File System (GFS)** and **Hadoop Distributed File System (HDFS)**, including their operations and architecture
 
-### **Google File System (GFS)**
+### **Google File System (GFS) **
 
 **Definition**:  GFS is a distributed file system designed by Google to manage large data sets across many machines. It is optimized for high-throughput access to data and is used for applications such as data processing and analytics.
 

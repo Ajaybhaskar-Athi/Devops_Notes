@@ -6,7 +6,7 @@
 
 - **Independent Demand** is when the demand for an item is not influenced by the demand for another item (e.g., demand for consumer goods).
 -Midsize providers can achieve similar statistical economies to an infinitely large
-provider–independent demands.
+provider–independent demands
 
 - **Mixed Demand** is not a standard term in this context but could refer to a combination of different demand types.
 

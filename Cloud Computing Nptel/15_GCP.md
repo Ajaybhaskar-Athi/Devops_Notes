@@ -31,7 +31,7 @@ Virtual machines. Managed platform. Blob storage. Block storage. NoSQL datastore
 
 `Example 1` : `Host` your web-page in Google Cloud Platform
 
-`Example2`: `Build` your web-app using Google App Engine
+`Example2`: `Build` your web-app using Google App Enginee
 
 
 
