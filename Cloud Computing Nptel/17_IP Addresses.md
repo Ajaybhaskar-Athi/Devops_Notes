@@ -7,7 +7,7 @@ In cloud computing and networking, **private IP addresses** and **floating IP ad
 - **Range**: Private IP addresses fall within specific ranges defined by the Internet Engineering Task Force (IETF). The common ranges are:
   - **10.0.0.0 to 10.255.255.255**
   - **172.16.0.0 to 172.31.255.255**
-  - **192.168.0.0 to 192.168.255.255**
+  - **192.168.0.0 to 192.168.255.255** 
 
 - **Usage**:
   - Used for devices within a local area network (LAN) or virtual private cloud (VPC). 

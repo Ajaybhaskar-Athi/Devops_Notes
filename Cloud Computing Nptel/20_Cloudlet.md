@@ -3,7 +3,7 @@
 ### Key Concepts
 
 1. **Cloudlet**:
-   - A cloudlet is a localized cloud computingg resource that is ` typically closer to the mobile device `than traditional cloud data centres. It can be` used to provide low-latency access` to computing resources and storage.
+   - A cloudlet is a localized cloud computing resource that is ` typically closer to the mobile device `than traditional cloud data centres. It can be` used to provide low-latency access` to computing resources and storage.
 
     - Cloudlet reduces the latency in reaching the cloud servers. Cloudlet resides near to the mobile devices.
 
