@@ -126,7 +126,7 @@ Computer Manger maintains status information including how many virtual machines
 Computer Manager uses the command interface of its hypervisor to start, stop, suspend, and reconfigure virtual machines
 
 #### **Examples:**
-- Microsoft System Center Configuration Manager (SCCM)
+- Microsoft System Center Center Configuration Manager (SCCM)
 - Remote Desktop Management Tools
 - Linux-based system management utilities (e.g., `top`, `htop`)
 
@@ -136,7 +136,7 @@ Computer Manager uses the command interface of its hypervisor to start, stop, su
 
 ### **Conclusion**
 
-Each of these managers serves a distinct purpose within IT infrastructure. **Cloud Managers** are concerned with cloud resources, **Cluster Managers** focus on coordinating multiple nodes to work together, and **Computer Managers** deal with individual machine operations. Understanding these tools helps organizations choose the right technology to fit their operational needs, whether they’re working with cloud platforms, distributed systems, or local devices.
+Each of these these managers serves a distinct purpose within IT infrastructure. **Cloud Managers** are concerned with cloud resources, **Cluster Managers** focus on coordinating multiple nodes to work together, and **Computer Managers** deal with individual machine operations. Understanding these tools helps organizations choose the right technology to fit their operational needs, whether they’re working with cloud platforms, distributed systems, or local devices.
 
 
 
