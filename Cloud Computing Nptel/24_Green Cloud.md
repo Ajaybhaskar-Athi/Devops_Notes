@@ -1,4 +1,5 @@
-Green Cloud refers to cloud computing strategies and practices aimed at reducing environmental impact by minimizing energy consumption, resource waste, and carbon footprint. It aligns with sustainability goals through methods like optimizing data center energy use, utilizing renewable energy sources, implementing efficient cooling systems, and designing software and hardware to work with minimal power consumption consumption.
+Green Cloud refers to cloud computing strategies and practices aimed at reducing environmental impact by minimizing energy consumption, resource waste, and carbon footprint. It aligns with sustainability goals through methods like optimizing data centre energy use, utilizing renewable energy sources, implementing efficient cooling systems, and designing software and hardware to work with minimal power consumption consumption.
+
 
 The main benefits of Green Cloud include:
 - **Lower carbon emissions** by reducing energy-intensive processes.

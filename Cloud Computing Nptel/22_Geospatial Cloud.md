@@ -12,6 +12,7 @@ A **Geospatial Cloud** is a cloud computing service specialized in handling, sto
 
 
 
+
 ### Importance of Geospatial Cloud
 
 1. **Real-Time Data Processing**: Geospatial cloud computing can handle and analyse massive datasets, often updating in real time. This is crucial for applications like weather monitoring, disaster response, traffic management, and asset tracking.

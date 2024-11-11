@@ -16,6 +16,7 @@
 - **Docker Hub**: A registry for hosting Docker images.
 - **Docker Compose**: Defines applications with multiple Docker containers.
 
+
 ---
 
 **Docker Architecture**
@@ -36,6 +37,7 @@
 - **rmi**: Delete a local image (removes intermediate images if no longer used).
 
 ---
+
 
 **Terminology - Container**
 
