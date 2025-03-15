@@ -35,7 +35,7 @@ VMs: Provide full OS-level isolation and can host multiple containers. VMs inclu
 
 Physical Host: The actual hardware.
 Hypervisor: Software that creates and manages VMs.
-VMs: Each VM runs its own OS.
+VMs: Each VM runs its own Guest OS.
 Containers: Within each VM, containers run and share the VM's OS kernel but are isolated from each other.
 
 - Resource Management: VMs manage resources and provide isolation, while containers offer lightweight, efficient application environments within those VMs.
